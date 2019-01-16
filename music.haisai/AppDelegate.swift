@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  music.haisai
 //
-//  Created by 高司慶 on 2019/01/15.
+//  Created by 慶 on 2019/01/15.
 //  Copyright © 2019 kei. All rights reserved.
 //
 

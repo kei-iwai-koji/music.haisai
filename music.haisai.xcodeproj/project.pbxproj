@@ -12,6 +12,9 @@
 		E82721CB21ED97210017686B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E82721C921ED97210017686B /* Main.storyboard */; };
 		E82721CD21ED97230017686B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E82721CC21ED97230017686B /* Assets.xcassets */; };
 		E82721D021ED97230017686B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E82721CE21ED97230017686B /* LaunchScreen.storyboard */; };
+		E82721D821EDA0460017686B /* haisai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E82721D721EDA0460017686B /* haisai.mp3 */; };
+		E82721DA21EDA05B0017686B /* donpaf.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E82721D921EDA05B0017686B /* donpaf.mp3 */; };
+		E82721DC21EDA06B0017686B /* iyasasa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E82721DB21EDA06B0017686B /* iyasasa.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		E82721CC21ED97230017686B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E82721CF21ED97230017686B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E82721D121ED97230017686B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E82721D721EDA0460017686B /* haisai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = haisai.mp3; sourceTree = "<group>"; };
+		E82721D921EDA05B0017686B /* donpaf.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = donpaf.mp3; sourceTree = "<group>"; };
+		E82721DB21EDA06B0017686B /* iyasasa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iyasasa.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				E82721CC21ED97230017686B /* Assets.xcassets */,
 				E82721CE21ED97230017686B /* LaunchScreen.storyboard */,
 				E82721D121ED97230017686B /* Info.plist */,
+				E82721D721EDA0460017686B /* haisai.mp3 */,
+				E82721D921EDA05B0017686B /* donpaf.mp3 */,
+				E82721DB21EDA06B0017686B /* iyasasa.mp3 */,
 			);
 			path = music.haisai;
 			sourceTree = "<group>";
@@ -125,6 +134,9 @@
 				E82721D021ED97230017686B /* LaunchScreen.storyboard in Resources */,
 				E82721CD21ED97230017686B /* Assets.xcassets in Resources */,
 				E82721CB21ED97210017686B /* Main.storyboard in Resources */,
+				E82721D821EDA0460017686B /* haisai.mp3 in Resources */,
+				E82721DC21EDA06B0017686B /* iyasasa.mp3 in Resources */,
+				E82721DA21EDA05B0017686B /* donpaf.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
